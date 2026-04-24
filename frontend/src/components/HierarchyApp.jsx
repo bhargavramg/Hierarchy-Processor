@@ -128,7 +128,6 @@ export default function HierarchyApp() {
 
   return (
     <div className="app-container">
-
       {/* ── Toasts ── */}
       <div className="toast-wrap">
         {toasts.map(t => (
